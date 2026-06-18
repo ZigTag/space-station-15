@@ -85,6 +85,7 @@
     tags:
     - HamsterWearable
     - WhitelistChameleon
+  - type: Nvg
 
 - type: entity
   parent: ClothingEyesBase
